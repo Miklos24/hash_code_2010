@@ -21,7 +21,7 @@ def reward_func(l, k_s, k_p, k_t) :
 
         arguments:
         - l: the library in question
-        - k_s: magic score-up constant
+        - k_s: magic score constant
         - k_p: magic scanning speed constant
         - k_t: magic sign-up speed constant
 
